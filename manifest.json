@@ -1,0 +1,23 @@
+{
+
+  "manifest_version": 2,
+  "name": "Custom background",
+  "version": "1.0",
+
+  "description": "Changes the site background.",
+
+  "permissions": [
+    "activeTab"
+  ],
+
+  "browser_action": {
+    "default_icon": "icons/potato-48.png",
+    "default_title": "Potatoize the website",
+    "default_popup": "popup/choose_background.html"
+  },
+
+  "web_accessible_resources": [
+    "images/potatoes.jpeg"
+  ]
+
+}
