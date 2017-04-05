@@ -1,9 +1,9 @@
-#Potatoize
+# Potatoize
 
-A Firefox add-on which changes a current website background to potatoes.
+A Firefox add-on which changes a current website's background to potatoes.
 Nuff said.
 
-##Usage
+## Usage
 1. Go to 'about:debugging' url in firefox
 2. Click on 'Load Temporary Add-on'
 3. Choose any file from the add-on
